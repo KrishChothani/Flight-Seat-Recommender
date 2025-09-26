@@ -1,0 +1,2660 @@
+{
+    "success": true,
+    "finalRecommendation": {
+        "side": "none",
+        "reason": "Since this flight takes place entirely at night, there are no opportunities for viewing a sunrise or the sun in general. Neither the left nor the right side of the aircraft will have a view. We recommend selecting a seat based on other preferences, such as comfort or ease of access.",
+        "confidence": "high",
+        "overallScore": 1,
+        "bestViewingPeriods": [
+            {
+                "startPercent": 0,
+                "endPercent": 100,
+                "description": "No sun viewing opportunities. The flight is entirely at night."
+            }
+        ],
+        "specialHighlights": [
+            "This is a nighttime flight with zero opportunity to see the sun.",
+            "The user's preference for a sunrise view cannot be satisfied on this particular flight schedule."
+        ]
+    },
+    "flightDetails": {
+        "fromCoords": {
+            "latitude": 40.6413,
+            "longitude": -73.7781
+        },
+        "toCoords": {
+            "latitude": 33.9425,
+            "longitude": -118.4081
+        },
+        "fromAirport": {
+            "name": "John F. Kennedy International Airport",
+            "city": "New York",
+            "country": "United States",
+            "iata": "JFK",
+            "icao": "KJFK"
+        },
+        "toAirport": {
+            "name": "Los Angeles International Airport",
+            "city": "Los Angeles",
+            "country": "United States",
+            "iata": "LAX",
+            "icao": "KLAX"
+        },
+        "departureTime": "2025-09-15T01:00:00.000Z",
+        "flightDuration": {
+            "hours": 4,
+            "minutes": 25,
+            "totalMinutes": 265
+        },
+        "distance": 3974.2670993796874,
+        "route": [
+            [
+                40.6413,
+                -73.7781
+            ],
+            [
+                40.66452524911574,
+                -74.25297944787938
+            ],
+            [
+                40.68580372492824,
+                -74.72817586716297
+            ],
+            [
+                40.70513272039014,
+                -75.20366190950769
+            ],
+            [
+                40.722509772536284,
+                -75.67941007969293
+            ],
+            [
+                40.737932663924056,
+                -76.15539274925997
+            ],
+            [
+                40.751399423933634,
+                -76.63158217031012
+            ],
+            [
+                40.762908329926,
+                -77.10795048944543
+            ],
+            [
+                40.77245790825747,
+                -77.58446976183603
+            ],
+            [
+                40.780046935148974,
+                -78.06111196539709
+            ],
+            [
+                40.785674437409064,
+                -78.53784901505898
+            ],
+            [
+                40.789339693009595,
+                -79.01465277711314
+            ],
+            [
+                40.79104223151317,
+                -79.49149508361687
+            ],
+            [
+                40.79078183435185,
+                -79.96834774683944
+            ],
+            [
+                40.788558534956714,
+                -80.44518257373205
+            ],
+            [
+                40.78437261873806,
+                -80.92197138040437
+            ],
+            [
+                40.7782246229162,
+                -81.39868600658986
+            ],
+            [
+                40.77011533620328,
+                -81.87529833008253
+            ],
+            [
+                40.76004579833643,
+                -82.35178028112797
+            ],
+            [
+                40.74801729946288,
+                -82.82810385675064
+            ],
+            [
+                40.73403137937809,
+                -83.30424113500102
+            ],
+            [
+                40.71808982661776,
+                -83.78016428910513
+            ],
+            [
+                40.70019467740511,
+                -84.25584560149981
+            ],
+            [
+                40.68034821445494,
+                -84.7312574777373
+            ],
+            [
+                40.65855296563604,
+                -85.20637246024269
+            ],
+            [
+                40.634811702493984,
+                -85.68116324190868
+            ],
+            [
+                40.6091274386361,
+                -86.15560267951169
+            ],
+            [
+                40.581503427981204,
+                -86.62966380693457
+            ],
+            [
+                40.551943162876164,
+                -87.10331984818099
+            ],
+            [
+                40.52045037208218,
+                -87.57654423016729
+            ],
+            [
+                40.487029018633336,
+                -88.04931059527794
+            ],
+            [
+                40.45168329757039,
+                -88.52159281367166
+            ],
+            [
+                40.41441763355292,
+                -88.99336499532491
+            ],
+            [
+                40.37523667835294,
+                -89.46460150180124
+            ],
+            [
+                40.33414530823342,
+                -89.93527695773436
+            ],
+            [
+                40.29114862121513,
+                -90.40536626201424
+            ],
+            [
+                40.246251934235325,
+                -90.87484459866573
+            ],
+            [
+                40.199460780202195,
+                -91.34368744741013
+            ],
+            [
+                40.15078090494864,
+                -91.8118705939003
+            ],
+            [
+                40.10021826408939,
+                -92.27937013962121
+            ],
+            [
+                40.04777901978549,
+                -92.74616251144784
+            ],
+            [
+                39.99346953742012,
+                -93.21222447085357
+            ],
+            [
+                39.937296382190006,
+                -93.6775331227625
+            ],
+            [
+                39.879266315616455,
+                -94.1420659240398
+            ],
+            [
+                39.81938629198044,
+                -94.60580069161547
+            ],
+            [
+                39.75766345468586,
+                -95.06871561023647
+            ],
+            [
+                39.69410513255542,
+                -95.53078923984414
+            ],
+            [
+                39.62871883606344,
+                -95.9920005225733
+            ],
+            [
+                39.561512253509925,
+                -96.4523287893712
+            ],
+            [
+                39.49249324714023,
+                -96.911753766234
+            ],
+            [
+                39.42166984921495,
+                -97.3702555800603
+            ],
+            [
+                39.3490502580339,
+                -97.82781476412076
+            ],
+            [
+                39.27464283391918,
+                -98.28441226314439
+            ],
+            [
+                39.19845609516104,
+                -98.74002943802206
+            ],
+            [
+                39.120498713931205,
+                -99.19464807012875
+            ],
+            [
+                39.04077951216786,
+                -99.64825036526639
+            ],
+            [
+                38.959307457436395,
+                -100.10081895723005
+            ],
+            [
+                38.87609165877018,
+                -100.55233691100017
+            ],
+            [
+                38.79114136249543,
+                -101.00278772556483
+            ],
+            [
+                38.704465948044195,
+                -101.45215533637591
+            ],
+            [
+                38.61607492375947,
+                -101.90042411744368
+            ],
+            [
+                38.52597792269626,
+                -102.34757888307517
+            ],
+            [
+                38.43418469842257,
+                -102.79360488926119
+            ],
+            [
+                38.34070512082376,
+                -103.23848783471861
+            ],
+            [
+                38.24554917191432,
+                -103.6822138615936
+            ],
+            [
+                38.14872694166015,
+                -104.12476955583267
+            ],
+            [
+                38.05024862381523,
+                -104.56614194722852
+            ],
+            [
+                37.95012451177574,
+                -105.00631850914786
+            ],
+            [
+                37.848364994454954,
+                -105.44528715794898
+            ],
+            [
+                37.7449805521822,
+                -105.88303625209667
+            ],
+            [
+                37.639981752628614,
+                -106.31955459098275
+            ],
+            [
+                37.533379246763054,
+                -106.75483141346052
+            ],
+            [
+                37.42518376484046,
+                -107.18885639610161
+            ],
+            [
+                37.3154061124259,
+                -107.62161965118383
+            ],
+            [
+                37.20405716645642,
+                -108.05311172441903
+            ],
+            [
+                37.09114787134356,
+                -108.48332359242985
+            ],
+            [
+                36.976689235118556,
+                -108.91224665998435
+            ],
+            [
+                36.860692325622814,
+                -109.33987275699792
+            ],
+            [
+                36.74316826674539,
+                -109.76619413531145
+            ],
+            [
+                36.62412823470988,
+                -110.19120346525506
+            ],
+            [
+                36.503583454412286,
+                -110.61489383200696
+            ],
+            [
+                36.381545195811896,
+                -111.03725873175647
+            ],
+            [
+                36.25802477037664,
+                -111.45829206768043
+            ],
+            [
+                36.133033527584594,
+                -111.87798814574269
+            ],
+            [
+                36.00658285148307,
+                -112.29634167032545
+            ],
+            [
+                35.8786841573065,
+                -112.7133477397018
+            ],
+            [
+                35.749348888154636,
+                -113.12900184135873
+            ],
+            [
+                35.61858851173165,
+                -113.54329984717917
+            ],
+            [
+                35.486414517147914,
+                -113.95623800849253
+            ],
+            [
+                35.352838411784475,
+                -114.36781295100202
+            ],
+            [
+                35.21787171822189,
+                -114.77802166959762
+            ],
+            [
+                35.08152597123351,
+                -115.18686152306337
+            ],
+            [
+                34.94381271484411,
+                -115.59433022868713
+            ],
+            [
+                34.80474349945438,
+                -116.000425856781
+            ],
+            [
+                34.66432987903174,
+                -116.40514682512082
+            ],
+            [
+                34.522583408367595,
+                -116.80849189331204
+            ],
+            [
+                34.379515640401564,
+                -117.2104601570904
+            ],
+            [
+                34.235138123612884,
+                -117.61105104256414
+            ],
+            [
+                34.08946239947875,
+                -118.01026430040575
+            ],
+            [
+                33.9425,
+                -118.4081
+            ]
+        ]
+    },
+    "flightPoints": [
+        {
+            "pointIndex": 0,
+            "progressPercent": 0,
+            "coordinates": [
+                40.6413,
+                -73.7781
+            ],
+            "time": "2025-09-15T01:00:00.000Z",
+            "flightBearing": -86,
+            "sun": {
+                "azimuth": 294.75,
+                "altitude": -21.63,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -21.63°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "New York, NY, USA"
+            }
+        },
+        {
+            "pointIndex": 1,
+            "progressPercent": 1,
+            "coordinates": [
+                40.66452524911574,
+                -74.25297944787938
+            ],
+            "time": "2025-09-15T01:02:40.606Z",
+            "flightBearing": -86,
+            "sun": {
+                "azimuth": 294.91,
+                "altitude": -21.76,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -21.76°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Newark, New Jersey, USA"
+            }
+        },
+        {
+            "pointIndex": 2,
+            "progressPercent": 2,
+            "coordinates": [
+                40.68580372492824,
+                -74.72817586716297
+            ],
+            "time": "2025-09-15T01:05:21.212Z",
+            "flightBearing": -87,
+            "sun": {
+                "azimuth": 295.07,
+                "altitude": -21.88,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -21.88°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 3,
+            "progressPercent": 3,
+            "coordinates": [
+                40.70513272039014,
+                -75.20366190950769
+            ],
+            "time": "2025-09-15T01:08:01.818Z",
+            "flightBearing": -87,
+            "sun": {
+                "azimuth": 295.23,
+                "altitude": -22.01,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.01°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 4,
+            "progressPercent": 4,
+            "coordinates": [
+                40.722509772536284,
+                -75.67941007969293
+            ],
+            "time": "2025-09-15T01:10:42.424Z",
+            "flightBearing": -87,
+            "sun": {
+                "azimuth": 295.39,
+                "altitude": -22.13,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.13°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Allentown, Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 5,
+            "progressPercent": 5,
+            "coordinates": [
+                40.737932663924056,
+                -76.15539274925997
+            ],
+            "time": "2025-09-15T01:13:23.030Z",
+            "flightBearing": -88,
+            "sun": {
+                "azimuth": 295.54,
+                "altitude": -22.26,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.26°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 6,
+            "progressPercent": 6,
+            "coordinates": [
+                40.751399423933634,
+                -76.63158217031012
+            ],
+            "time": "2025-09-15T01:16:03.636Z",
+            "flightBearing": -88,
+            "sun": {
+                "azimuth": 295.7,
+                "altitude": -22.39,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.39°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 7,
+            "progressPercent": 7,
+            "coordinates": [
+                40.762908329926,
+                -77.10795048944543
+            ],
+            "time": "2025-09-15T01:18:44.242Z",
+            "flightBearing": -88,
+            "sun": {
+                "azimuth": 295.86,
+                "altitude": -22.51,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.51°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 8,
+            "progressPercent": 8,
+            "coordinates": [
+                40.77245790825747,
+                -77.58446976183603
+            ],
+            "time": "2025-09-15T01:21:24.848Z",
+            "flightBearing": -89,
+            "sun": {
+                "azimuth": 296.01,
+                "altitude": -22.64,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.64°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 9,
+            "progressPercent": 9,
+            "coordinates": [
+                40.780046935148974,
+                -78.06111196539709
+            ],
+            "time": "2025-09-15T01:24:05.454Z",
+            "flightBearing": -89,
+            "sun": {
+                "azimuth": 296.17,
+                "altitude": -22.77,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.77°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near State College, Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 10,
+            "progressPercent": 10,
+            "coordinates": [
+                40.785674437409064,
+                -78.53784901505898
+            ],
+            "time": "2025-09-15T01:26:46.060Z",
+            "flightBearing": -89,
+            "sun": {
+                "azimuth": 296.32,
+                "altitude": -22.9,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -22.9°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 11,
+            "progressPercent": 11,
+            "coordinates": [
+                40.789339693009595,
+                -79.01465277711314
+            ],
+            "time": "2025-09-15T01:29:26.666Z",
+            "flightBearing": -90,
+            "sun": {
+                "azimuth": 296.47,
+                "altitude": -23.03,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.03°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 12,
+            "progressPercent": 12,
+            "coordinates": [
+                40.79104223151317,
+                -79.49149508361687
+            ],
+            "time": "2025-09-15T01:32:07.272Z",
+            "flightBearing": -90,
+            "sun": {
+                "azimuth": 296.63,
+                "altitude": -23.16,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.16°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Pittsburgh, Pennsylvania, USA"
+            }
+        },
+        {
+            "pointIndex": 13,
+            "progressPercent": 13,
+            "coordinates": [
+                40.79078183435185,
+                -79.96834774683944
+            ],
+            "time": "2025-09-15T01:34:47.878Z",
+            "flightBearing": -90,
+            "sun": {
+                "azimuth": 296.78,
+                "altitude": -23.29,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.29°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Ohio border, USA"
+            }
+        },
+        {
+            "pointIndex": 14,
+            "progressPercent": 14,
+            "coordinates": [
+                40.788558534956714,
+                -80.44518257373205
+            ],
+            "time": "2025-09-15T01:37:28.484Z",
+            "flightBearing": -91,
+            "sun": {
+                "azimuth": 296.93,
+                "altitude": -23.42,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.42°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 15,
+            "progressPercent": 15,
+            "coordinates": [
+                40.78437261873806,
+                -80.92197138040437
+            ],
+            "time": "2025-09-15T01:40:09.090Z",
+            "flightBearing": -91,
+            "sun": {
+                "azimuth": 297.09,
+                "altitude": -23.55,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.55°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 16,
+            "progressPercent": 16,
+            "coordinates": [
+                40.7782246229162,
+                -81.39868600658986
+            ],
+            "time": "2025-09-15T01:42:49.696Z",
+            "flightBearing": -91,
+            "sun": {
+                "azimuth": 297.24,
+                "altitude": -23.68,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.68°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 17,
+            "progressPercent": 17,
+            "coordinates": [
+                40.77011533620328,
+                -81.87529833008253
+            ],
+            "time": "2025-09-15T01:45:30.303Z",
+            "flightBearing": -91,
+            "sun": {
+                "azimuth": 297.39,
+                "altitude": -23.82,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.82°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Columbus, Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 18,
+            "progressPercent": 18,
+            "coordinates": [
+                40.76004579833643,
+                -82.35178028112797
+            ],
+            "time": "2025-09-15T01:48:10.909Z",
+            "flightBearing": -92,
+            "sun": {
+                "azimuth": 297.54,
+                "altitude": -23.95,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -23.95°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 19,
+            "progressPercent": 19,
+            "coordinates": [
+                40.74801729946288,
+                -82.82810385675064
+            ],
+            "time": "2025-09-15T01:50:51.515Z",
+            "flightBearing": -92,
+            "sun": {
+                "azimuth": 297.69,
+                "altitude": -24.09,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.09°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 20,
+            "progressPercent": 20,
+            "coordinates": [
+                40.73403137937809,
+                -83.30424113500102
+            ],
+            "time": "2025-09-15T01:53:32.121Z",
+            "flightBearing": -92,
+            "sun": {
+                "azimuth": 297.84,
+                "altitude": -24.23,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.23°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Dayton, Ohio, USA"
+            }
+        },
+        {
+            "pointIndex": 21,
+            "progressPercent": 21,
+            "coordinates": [
+                40.71808982661776,
+                -83.78016428910513
+            ],
+            "time": "2025-09-15T01:56:12.727Z",
+            "flightBearing": -93,
+            "sun": {
+                "azimuth": 297.99,
+                "altitude": -24.36,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.36°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Indiana border, USA"
+            }
+        },
+        {
+            "pointIndex": 22,
+            "progressPercent": 22,
+            "coordinates": [
+                40.70019467740511,
+                -84.25584560149981
+            ],
+            "time": "2025-09-15T01:58:53.333Z",
+            "flightBearing": -93,
+            "sun": {
+                "azimuth": 298.14,
+                "altitude": -24.5,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.5°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Indiana, USA"
+            }
+        },
+        {
+            "pointIndex": 23,
+            "progressPercent": 23,
+            "coordinates": [
+                40.68034821445494,
+                -84.7312574777373
+            ],
+            "time": "2025-09-15T02:01:33.939Z",
+            "flightBearing": -93,
+            "sun": {
+                "azimuth": 298.29,
+                "altitude": -24.64,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.64°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Indianapolis, Indiana, USA"
+            }
+        },
+        {
+            "pointIndex": 24,
+            "progressPercent": 24,
+            "coordinates": [
+                40.65855296563604,
+                -85.20637246024269
+            ],
+            "time": "2025-09-15T02:04:14.545Z",
+            "flightBearing": -94,
+            "sun": {
+                "azimuth": 298.44,
+                "altitude": -24.78,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.78°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Indiana, USA"
+            }
+        },
+        {
+            "pointIndex": 25,
+            "progressPercent": 25,
+            "coordinates": [
+                40.634811702493984,
+                -85.68116324190868
+            ],
+            "time": "2025-09-15T02:06:55.151Z",
+            "flightBearing": -94,
+            "sun": {
+                "azimuth": 298.59,
+                "altitude": -24.92,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -24.92°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Indiana, USA"
+            }
+        },
+        {
+            "pointIndex": 26,
+            "progressPercent": 26,
+            "coordinates": [
+                40.6091274386361,
+                -86.15560267951169
+            ],
+            "time": "2025-09-15T02:09:35.757Z",
+            "flightBearing": -94,
+            "sun": {
+                "azimuth": 298.74,
+                "altitude": -25.07,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.07°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Indiana, USA"
+            }
+        },
+        {
+            "pointIndex": 27,
+            "progressPercent": 27,
+            "coordinates": [
+                40.581503427981204,
+                -86.62966380693457
+            ],
+            "time": "2025-09-15T02:12:16.363Z",
+            "flightBearing": -95,
+            "sun": {
+                "azimuth": 298.89,
+                "altitude": -25.21,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.21°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Illinois border, USA"
+            }
+        },
+        {
+            "pointIndex": 28,
+            "progressPercent": 28,
+            "coordinates": [
+                40.551943162876164,
+                -87.10331984818099
+            ],
+            "time": "2025-09-15T02:14:56.969Z",
+            "flightBearing": -95,
+            "sun": {
+                "azimuth": 299.04,
+                "altitude": -25.35,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.35°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 29,
+            "progressPercent": 29,
+            "coordinates": [
+                40.52045037208218,
+                -87.57654423016729
+            ],
+            "time": "2025-09-15T02:17:37.575Z",
+            "flightBearing": -95,
+            "sun": {
+                "azimuth": 299.19,
+                "altitude": -25.5,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.5°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Champaign, Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 30,
+            "progressPercent": 30,
+            "coordinates": [
+                40.487029018633336,
+                -88.04931059527794
+            ],
+            "time": "2025-09-15T02:20:18.181Z",
+            "flightBearing": -95,
+            "sun": {
+                "azimuth": 299.34,
+                "altitude": -25.65,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.65°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 31,
+            "progressPercent": 31,
+            "coordinates": [
+                40.45168329757039,
+                -88.52159281367166
+            ],
+            "time": "2025-09-15T02:22:58.787Z",
+            "flightBearing": -96,
+            "sun": {
+                "azimuth": 299.48,
+                "altitude": -25.8,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.8°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 32,
+            "progressPercent": 32,
+            "coordinates": [
+                40.41441763355292,
+                -88.99336499532491
+            ],
+            "time": "2025-09-15T02:25:39.393Z",
+            "flightBearing": -96,
+            "sun": {
+                "azimuth": 299.63,
+                "altitude": -25.95,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -25.95°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Springfield, Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 33,
+            "progressPercent": 33,
+            "coordinates": [
+                40.37523667835294,
+                -89.46460150180124
+            ],
+            "time": "2025-09-15T02:28:20.000Z",
+            "flightBearing": -96,
+            "sun": {
+                "azimuth": 299.78,
+                "altitude": -26.1,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.1°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Illinois, USA"
+            }
+        },
+        {
+            "pointIndex": 34,
+            "progressPercent": 34,
+            "coordinates": [
+                40.33414530823342,
+                -89.93527695773436
+            ],
+            "time": "2025-09-15T02:31:00.606Z",
+            "flightBearing": -97,
+            "sun": {
+                "azimuth": 299.93,
+                "altitude": -26.25,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.25°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Missouri border, USA"
+            }
+        },
+        {
+            "pointIndex": 35,
+            "progressPercent": 35,
+            "coordinates": [
+                40.29114862121513,
+                -90.40536626201424
+            ],
+            "time": "2025-09-15T02:33:41.212Z",
+            "flightBearing": -97,
+            "sun": {
+                "azimuth": 300.07,
+                "altitude": -26.4,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.4°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 36,
+            "progressPercent": 36,
+            "coordinates": [
+                40.246251934235325,
+                -90.87484459866573
+            ],
+            "time": "2025-09-15T02:36:21.818Z",
+            "flightBearing": -97,
+            "sun": {
+                "azimuth": 300.22,
+                "altitude": -26.56,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.56°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 37,
+            "progressPercent": 37,
+            "coordinates": [
+                40.199460780202195,
+                -91.34368744741013
+            ],
+            "time": "2025-09-15T02:39:02.424Z",
+            "flightBearing": -98,
+            "sun": {
+                "azimuth": 300.37,
+                "altitude": -26.71,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.71°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 38,
+            "progressPercent": 38,
+            "coordinates": [
+                40.15078090494864,
+                -91.8118705939003
+            ],
+            "time": "2025-09-15T02:41:43.030Z",
+            "flightBearing": -98,
+            "sun": {
+                "azimuth": 300.52,
+                "altitude": -26.87,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -26.87°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 39,
+            "progressPercent": 39,
+            "coordinates": [
+                40.10021826408939,
+                -92.27937013962121
+            ],
+            "time": "2025-09-15T02:44:23.636Z",
+            "flightBearing": -98,
+            "sun": {
+                "azimuth": 300.66,
+                "altitude": -27.03,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.03°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Kansas City, Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 40,
+            "progressPercent": 40,
+            "coordinates": [
+                40.04777901978549,
+                -92.74616251144784
+            ],
+            "time": "2025-09-15T02:47:04.242Z",
+            "flightBearing": -99,
+            "sun": {
+                "azimuth": 300.81,
+                "altitude": -27.19,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.19°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Kansas City, Missouri, USA"
+            }
+        },
+        {
+            "pointIndex": 41,
+            "progressPercent": 41,
+            "coordinates": [
+                39.99346953742012,
+                -93.21222447085357
+            ],
+            "time": "2025-09-15T02:49:44.848Z",
+            "flightBearing": -99,
+            "sun": {
+                "azimuth": 300.96,
+                "altitude": -27.35,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.35°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Kansas border, USA"
+            }
+        },
+        {
+            "pointIndex": 42,
+            "progressPercent": 42,
+            "coordinates": [
+                39.937296382190006,
+                -93.6775331227625
+            ],
+            "time": "2025-09-15T02:52:25.454Z",
+            "flightBearing": -99,
+            "sun": {
+                "azimuth": 301.11,
+                "altitude": -27.52,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.52°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 43,
+            "progressPercent": 43,
+            "coordinates": [
+                39.879266315616455,
+                -94.1420659240398
+            ],
+            "time": "2025-09-15T02:55:06.060Z",
+            "flightBearing": -99,
+            "sun": {
+                "azimuth": 301.25,
+                "altitude": -27.68,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.68°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Topeka, Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 44,
+            "progressPercent": 44,
+            "coordinates": [
+                39.81938629198044,
+                -94.60580069161547
+            ],
+            "time": "2025-09-15T02:57:46.666Z",
+            "flightBearing": -100,
+            "sun": {
+                "azimuth": 301.4,
+                "altitude": -27.85,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -27.85°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 45,
+            "progressPercent": 45,
+            "coordinates": [
+                39.75766345468586,
+                -95.06871561023647
+            ],
+            "time": "2025-09-15T03:00:27.272Z",
+            "flightBearing": -100,
+            "sun": {
+                "azimuth": 301.55,
+                "altitude": -28.02,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.02°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 46,
+            "progressPercent": 46,
+            "coordinates": [
+                39.69410513255542,
+                -95.53078923984414
+            ],
+            "time": "2025-09-15T03:03:07.878Z",
+            "flightBearing": -100,
+            "sun": {
+                "azimuth": 301.7,
+                "altitude": -28.19,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.19°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 47,
+            "progressPercent": 47,
+            "coordinates": [
+                39.62871883606344,
+                -95.9920005225733
+            ],
+            "time": "2025-09-15T03:05:48.484Z",
+            "flightBearing": -101,
+            "sun": {
+                "azimuth": 301.84,
+                "altitude": -28.36,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.36°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Central Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 48,
+            "progressPercent": 48,
+            "coordinates": [
+                39.561512253509925,
+                -96.4523287893712
+            ],
+            "time": "2025-09-15T03:08:29.090Z",
+            "flightBearing": -101,
+            "sun": {
+                "azimuth": 301.99,
+                "altitude": -28.53,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.53°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 49,
+            "progressPercent": 49,
+            "coordinates": [
+                39.49249324714023,
+                -96.911753766234
+            ],
+            "time": "2025-09-15T03:11:09.696Z",
+            "flightBearing": -101,
+            "sun": {
+                "azimuth": 302.14,
+                "altitude": -28.71,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.71°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 50,
+            "progressPercent": 51,
+            "coordinates": [
+                39.42166984921495,
+                -97.3702555800603
+            ],
+            "time": "2025-09-15T03:13:50.303Z",
+            "flightBearing": -101,
+            "sun": {
+                "azimuth": 302.29,
+                "altitude": -28.88,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -28.88°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 51,
+            "progressPercent": 52,
+            "coordinates": [
+                39.3490502580339,
+                -97.82781476412076
+            ],
+            "time": "2025-09-15T03:16:30.909Z",
+            "flightBearing": -102,
+            "sun": {
+                "azimuth": 302.44,
+                "altitude": -29.06,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.06°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Western Kansas, USA"
+            }
+        },
+        {
+            "pointIndex": 52,
+            "progressPercent": 53,
+            "coordinates": [
+                39.27464283391918,
+                -98.28441226314439
+            ],
+            "time": "2025-09-15T03:19:11.515Z",
+            "flightBearing": -102,
+            "sun": {
+                "azimuth": 302.58,
+                "altitude": -29.24,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.24°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Colorado border, USA"
+            }
+        },
+        {
+            "pointIndex": 53,
+            "progressPercent": 54,
+            "coordinates": [
+                39.19845609516104,
+                -98.74002943802206
+            ],
+            "time": "2025-09-15T03:21:52.121Z",
+            "flightBearing": -102,
+            "sun": {
+                "azimuth": 302.73,
+                "altitude": -29.42,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.42°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 54,
+            "progressPercent": 55,
+            "coordinates": [
+                39.120498713931205,
+                -99.19464807012875
+            ],
+            "time": "2025-09-15T03:24:32.727Z",
+            "flightBearing": -103,
+            "sun": {
+                "azimuth": 302.88,
+                "altitude": -29.6,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.6°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 55,
+            "progressPercent": 56,
+            "coordinates": [
+                39.04077951216786,
+                -99.64825036526639
+            ],
+            "time": "2025-09-15T03:27:13.333Z",
+            "flightBearing": -103,
+            "sun": {
+                "azimuth": 303.03,
+                "altitude": -29.79,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.79°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Eastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 56,
+            "progressPercent": 57,
+            "coordinates": [
+                38.959307457436395,
+                -100.10081895723005
+            ],
+            "time": "2025-09-15T03:29:53.939Z",
+            "flightBearing": -103,
+            "sun": {
+                "azimuth": 303.18,
+                "altitude": -29.97,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -29.97°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southeastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 57,
+            "progressPercent": 58,
+            "coordinates": [
+                38.87609165877018,
+                -100.55233691100017
+            ],
+            "time": "2025-09-15T03:32:34.545Z",
+            "flightBearing": -103,
+            "sun": {
+                "azimuth": 303.33,
+                "altitude": -30.16,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -30.16°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southeastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 58,
+            "progressPercent": 59,
+            "coordinates": [
+                38.79114136249543,
+                -101.00278772556483
+            ],
+            "time": "2025-09-15T03:35:15.151Z",
+            "flightBearing": -104,
+            "sun": {
+                "azimuth": 303.48,
+                "altitude": -30.35,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -30.35°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southeastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 59,
+            "progressPercent": 60,
+            "coordinates": [
+                38.704465948044195,
+                -101.45215533637591
+            ],
+            "time": "2025-09-15T03:37:55.757Z",
+            "flightBearing": -104,
+            "sun": {
+                "azimuth": 303.63,
+                "altitude": -30.54,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -30.54°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southeastern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 60,
+            "progressPercent": 61,
+            "coordinates": [
+                38.61607492375947,
+                -101.90042411744368
+            ],
+            "time": "2025-09-15T03:40:36.363Z",
+            "flightBearing": -104,
+            "sun": {
+                "azimuth": 303.78,
+                "altitude": -30.73,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -30.73°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 61,
+            "progressPercent": 62,
+            "coordinates": [
+                38.52597792269626,
+                -102.34757888307517
+            ],
+            "time": "2025-09-15T03:43:16.969Z",
+            "flightBearing": -105,
+            "sun": {
+                "azimuth": 303.93,
+                "altitude": -30.93,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -30.93°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Pueblo, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 62,
+            "progressPercent": 63,
+            "coordinates": [
+                38.43418469842257,
+                -102.79360488926119
+            ],
+            "time": "2025-09-15T03:45:57.575Z",
+            "flightBearing": -105,
+            "sun": {
+                "azimuth": 304.09,
+                "altitude": -31.13,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -31.13°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 63,
+            "progressPercent": 64,
+            "coordinates": [
+                38.34070512082376,
+                -103.23848783471861
+            ],
+            "time": "2025-09-15T03:48:38.181Z",
+            "flightBearing": -105,
+            "sun": {
+                "azimuth": 304.24,
+                "altitude": -31.33,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -31.33°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "San Luis Valley, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 64,
+            "progressPercent": 65,
+            "coordinates": [
+                38.24554917191432,
+                -103.6822138615936
+            ],
+            "time": "2025-09-15T03:51:18.787Z",
+            "flightBearing": -105,
+            "sun": {
+                "azimuth": 304.39,
+                "altitude": -31.53,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -31.53°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "San Luis Valley, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 65,
+            "progressPercent": 66,
+            "coordinates": [
+                38.14872694166015,
+                -104.12476955583267
+            ],
+            "time": "2025-09-15T03:53:59.393Z",
+            "flightBearing": -106,
+            "sun": {
+                "azimuth": 304.54,
+                "altitude": -31.73,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -31.73°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 66,
+            "progressPercent": 67,
+            "coordinates": [
+                38.05024862381523,
+                -104.56614194722852
+            ],
+            "time": "2025-09-15T03:56:40.000Z",
+            "flightBearing": -106,
+            "sun": {
+                "azimuth": 304.7,
+                "altitude": -31.93,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -31.93°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Great Sand Dunes National Park, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 67,
+            "progressPercent": 68,
+            "coordinates": [
+                37.95012451177574,
+                -105.00631850914786
+            ],
+            "time": "2025-09-15T03:59:20.606Z",
+            "flightBearing": -106,
+            "sun": {
+                "azimuth": 304.85,
+                "altitude": -32.14,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -32.14°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 68,
+            "progressPercent": 69,
+            "coordinates": [
+                37.848364994454954,
+                -105.44528715794898
+            ],
+            "time": "2025-09-15T04:02:01.212Z",
+            "flightBearing": -107,
+            "sun": {
+                "azimuth": 305,
+                "altitude": -32.35,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -32.35°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southwestern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 69,
+            "progressPercent": 70,
+            "coordinates": [
+                37.7449805521822,
+                -105.88303625209667
+            ],
+            "time": "2025-09-15T04:04:41.818Z",
+            "flightBearing": -107,
+            "sun": {
+                "azimuth": 305.16,
+                "altitude": -32.56,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -32.56°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southwestern Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 70,
+            "progressPercent": 71,
+            "coordinates": [
+                37.639981752628614,
+                -106.31955459098275
+            ],
+            "time": "2025-09-15T04:07:22.424Z",
+            "flightBearing": -107,
+            "sun": {
+                "azimuth": 305.31,
+                "altitude": -32.77,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -32.77°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Durango, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 71,
+            "progressPercent": 72,
+            "coordinates": [
+                37.533379246763054,
+                -106.75483141346052
+            ],
+            "time": "2025-09-15T04:10:03.030Z",
+            "flightBearing": -107,
+            "sun": {
+                "azimuth": 305.47,
+                "altitude": -32.98,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -32.98°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Mesa Verde National Park, Colorado, USA"
+            }
+        },
+        {
+            "pointIndex": 72,
+            "progressPercent": 73,
+            "coordinates": [
+                37.42518376484046,
+                -107.18885639610161
+            ],
+            "time": "2025-09-15T04:12:43.636Z",
+            "flightBearing": -108,
+            "sun": {
+                "azimuth": 305.62,
+                "altitude": -33.2,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -33.2°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Four Corners region, USA"
+            }
+        },
+        {
+            "pointIndex": 73,
+            "progressPercent": 74,
+            "coordinates": [
+                37.3154061124259,
+                -107.62161965118383
+            ],
+            "time": "2025-09-15T04:15:24.242Z",
+            "flightBearing": -108,
+            "sun": {
+                "azimuth": 305.78,
+                "altitude": -33.41,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -33.41°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Four Corners region, USA"
+            }
+        },
+        {
+            "pointIndex": 74,
+            "progressPercent": 75,
+            "coordinates": [
+                37.20405716645642,
+                -108.05311172441903
+            ],
+            "time": "2025-09-15T04:18:04.848Z",
+            "flightBearing": -108,
+            "sun": {
+                "azimuth": 305.94,
+                "altitude": -33.63,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -33.63°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Arizona/Utah border, USA"
+            }
+        },
+        {
+            "pointIndex": 75,
+            "progressPercent": 76,
+            "coordinates": [
+                37.09114787134356,
+                -108.48332359242985
+            ],
+            "time": "2025-09-15T04:20:45.454Z",
+            "flightBearing": -108,
+            "sun": {
+                "azimuth": 306.1,
+                "altitude": -33.85,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -33.85°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Navajo Nation, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 76,
+            "progressPercent": 77,
+            "coordinates": [
+                36.976689235118556,
+                -108.91224665998435
+            ],
+            "time": "2025-09-15T04:23:26.060Z",
+            "flightBearing": -109,
+            "sun": {
+                "azimuth": 306.25,
+                "altitude": -34.08,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -34.08°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Navajo Nation, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 77,
+            "progressPercent": 78,
+            "coordinates": [
+                36.860692325622814,
+                -109.33987275699792
+            ],
+            "time": "2025-09-15T04:26:06.666Z",
+            "flightBearing": -109,
+            "sun": {
+                "azimuth": 306.41,
+                "altitude": -34.3,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -34.3°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Navajo Nation, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 78,
+            "progressPercent": 79,
+            "coordinates": [
+                36.74316826674539,
+                -109.76619413531145
+            ],
+            "time": "2025-09-15T04:28:47.272Z",
+            "flightBearing": -109,
+            "sun": {
+                "azimuth": 306.57,
+                "altitude": -34.53,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -34.53°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Page, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 79,
+            "progressPercent": 80,
+            "coordinates": [
+                36.62412823470988,
+                -110.19120346525506
+            ],
+            "time": "2025-09-15T04:31:27.878Z",
+            "flightBearing": -109,
+            "sun": {
+                "azimuth": 306.73,
+                "altitude": -34.76,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -34.76°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 80,
+            "progressPercent": 81,
+            "coordinates": [
+                36.503583454412286,
+                -110.61489383200696
+            ],
+            "time": "2025-09-15T04:34:08.484Z",
+            "flightBearing": -110,
+            "sun": {
+                "azimuth": 306.89,
+                "altitude": -34.99,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -34.99°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Grand Canyon National Park, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 81,
+            "progressPercent": 82,
+            "coordinates": [
+                36.381545195811896,
+                -111.03725873175647
+            ],
+            "time": "2025-09-15T04:36:49.090Z",
+            "flightBearing": -110,
+            "sun": {
+                "azimuth": 307.05,
+                "altitude": -35.22,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -35.22°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Grand Canyon National Park, Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 82,
+            "progressPercent": 83,
+            "coordinates": [
+                36.25802477037664,
+                -111.45829206768043
+            ],
+            "time": "2025-09-15T04:39:29.696Z",
+            "flightBearing": -110,
+            "sun": {
+                "azimuth": 307.22,
+                "altitude": -35.46,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -35.46°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 83,
+            "progressPercent": 84,
+            "coordinates": [
+                36.133033527584594,
+                -111.87798814574269
+            ],
+            "time": "2025-09-15T04:42:10.303Z",
+            "flightBearing": -110,
+            "sun": {
+                "azimuth": 307.38,
+                "altitude": -35.69,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -35.69°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Northern Arizona, USA"
+            }
+        },
+        {
+            "pointIndex": 84,
+            "progressPercent": 85,
+            "coordinates": [
+                36.00658285148307,
+                -112.29634167032545
+            ],
+            "time": "2025-09-15T04:44:50.909Z",
+            "flightBearing": -111,
+            "sun": {
+                "azimuth": 307.54,
+                "altitude": -35.93,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -35.93°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Nevada/Arizona border, USA"
+            }
+        },
+        {
+            "pointIndex": 85,
+            "progressPercent": 86,
+            "coordinates": [
+                35.8786841573065,
+                -112.7133477397018
+            ],
+            "time": "2025-09-15T04:47:31.515Z",
+            "flightBearing": -111,
+            "sun": {
+                "azimuth": 307.71,
+                "altitude": -36.17,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -36.17°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Lake Mead, Nevada, USA"
+            }
+        },
+        {
+            "pointIndex": 86,
+            "progressPercent": 87,
+            "coordinates": [
+                35.749348888154636,
+                -113.12900184135873
+            ],
+            "time": "2025-09-15T04:50:12.121Z",
+            "flightBearing": -111,
+            "sun": {
+                "azimuth": 307.87,
+                "altitude": -36.41,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -36.41°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Nevada, USA"
+            }
+        },
+        {
+            "pointIndex": 87,
+            "progressPercent": 88,
+            "coordinates": [
+                35.61858851173165,
+                -113.54329984717917
+            ],
+            "time": "2025-09-15T04:52:52.727Z",
+            "flightBearing": -111,
+            "sun": {
+                "azimuth": 308.04,
+                "altitude": -36.66,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -36.66°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Southern Nevada, USA"
+            }
+        },
+        {
+            "pointIndex": 88,
+            "progressPercent": 89,
+            "coordinates": [
+                35.486414517147914,
+                -113.95623800849253
+            ],
+            "time": "2025-09-15T04:55:33.333Z",
+            "flightBearing": -112,
+            "sun": {
+                "azimuth": 308.21,
+                "altitude": -36.9,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -36.9°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "California/Nevada border, USA"
+            }
+        },
+        {
+            "pointIndex": 89,
+            "progressPercent": 90,
+            "coordinates": [
+                35.352838411784475,
+                -114.36781295100202
+            ],
+            "time": "2025-09-15T04:58:13.939Z",
+            "flightBearing": -112,
+            "sun": {
+                "azimuth": 308.38,
+                "altitude": -37.15,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -37.15°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Mojave Desert, California, USA"
+            }
+        },
+        {
+            "pointIndex": 90,
+            "progressPercent": 91,
+            "coordinates": [
+                35.21787171822189,
+                -114.77802166959762
+            ],
+            "time": "2025-09-15T05:00:54.545Z",
+            "flightBearing": -112,
+            "sun": {
+                "azimuth": 308.54,
+                "altitude": -37.4,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -37.4°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Mojave Desert, California, USA"
+            }
+        },
+        {
+            "pointIndex": 91,
+            "progressPercent": 92,
+            "coordinates": [
+                35.08152597123351,
+                -115.18686152306337
+            ],
+            "time": "2025-09-15T05:03:35.151Z",
+            "flightBearing": -112,
+            "sun": {
+                "azimuth": 308.71,
+                "altitude": -37.65,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -37.65°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Mojave Desert, California, USA"
+            }
+        },
+        {
+            "pointIndex": 92,
+            "progressPercent": 93,
+            "coordinates": [
+                34.94381271484411,
+                -115.59433022868713
+            ],
+            "time": "2025-09-15T05:06:15.757Z",
+            "flightBearing": -113,
+            "sun": {
+                "azimuth": 308.88,
+                "altitude": -37.91,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -37.91°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near Barstow, California, USA"
+            }
+        },
+        {
+            "pointIndex": 93,
+            "progressPercent": 94,
+            "coordinates": [
+                34.80474349945438,
+                -116.000425856781
+            ],
+            "time": "2025-09-15T05:08:56.363Z",
+            "flightBearing": -113,
+            "sun": {
+                "azimuth": 309.06,
+                "altitude": -38.16,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -38.16°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "San Bernardino County, California, USA"
+            }
+        },
+        {
+            "pointIndex": 94,
+            "progressPercent": 95,
+            "coordinates": [
+                34.66432987903174,
+                -116.40514682512082
+            ],
+            "time": "2025-09-15T05:11:36.969Z",
+            "flightBearing": -113,
+            "sun": {
+                "azimuth": 309.23,
+                "altitude": -38.42,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -38.42°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "San Bernardino County, California, USA"
+            }
+        },
+        {
+            "pointIndex": 95,
+            "progressPercent": 96,
+            "coordinates": [
+                34.522583408367595,
+                -116.80849189331204
+            ],
+            "time": "2025-09-15T05:14:17.575Z",
+            "flightBearing": -113,
+            "sun": {
+                "azimuth": 309.4,
+                "altitude": -38.68,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -38.68°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Near San Bernardino, California, USA"
+            }
+        },
+        {
+            "pointIndex": 96,
+            "progressPercent": 97,
+            "coordinates": [
+                34.379515640401564,
+                -117.2104601570904
+            ],
+            "time": "2025-09-15T05:16:58.181Z",
+            "flightBearing": -113,
+            "sun": {
+                "azimuth": 309.58,
+                "altitude": -38.94,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -38.94°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Los Angeles County, California, USA"
+            }
+        },
+        {
+            "pointIndex": 97,
+            "progressPercent": 98,
+            "coordinates": [
+                34.235138123612884,
+                -117.61105104256414
+            ],
+            "time": "2025-09-15T05:19:38.787Z",
+            "flightBearing": -114,
+            "sun": {
+                "azimuth": 309.75,
+                "altitude": -39.21,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -39.21°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Approaching Los Angeles, California, USA"
+            }
+        },
+        {
+            "pointIndex": 98,
+            "progressPercent": 99,
+            "coordinates": [
+                34.08946239947875,
+                -118.01026430040575
+            ],
+            "time": "2025-09-15T05:22:19.393Z",
+            "flightBearing": -114,
+            "sun": {
+                "azimuth": 309.93,
+                "altitude": -39.47,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -39.47°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Los Angeles, California, USA"
+            }
+        },
+        {
+            "pointIndex": 99,
+            "progressPercent": 100,
+            "coordinates": [
+                33.9425,
+                -118.4081
+            ],
+            "time": "2025-09-15T05:25:00.000Z",
+            "flightBearing": 0,
+            "sun": {
+                "azimuth": 310.11,
+                "altitude": -39.74,
+                "visible": false
+            },
+            "recommendation": {
+                "seatSide": "none",
+                "reason": "Sun is not visible (altitude: -39.74°).",
+                "viewScore": 1,
+                "specialCondition": "Not visible",
+                "location": "Los Angeles, California, USA"
+            }
+        }
+    ],
+    "metadata": {
+        "analysisMethod": "AI-powered 100-point analysis",
+        "totalPointsAnalyzed": 100,
+        "overallScore": 1
+    }
+}
